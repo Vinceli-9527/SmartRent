@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "SmartRent 智慧租房" },
+    { "name": "EntryAbility_desc", "value": "SmartRent 主入口" },
+    { "name": "EntryAbility_label", "value": "智慧租房" },
+    { "name": "app_name", "value": "智慧租房" },
+    { "name": "internet_reason", "value": "需要网络访问以获取房源数据和用户信息" }
+  ]
+}
