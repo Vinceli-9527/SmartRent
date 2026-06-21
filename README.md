@@ -136,6 +136,9 @@ Pages (页面层)
 
 4. 选择模拟器或真机设备，点击 **Run** 运行
 
+### 测试管理员用户
+- **用户名：admin**
+- **密码：123456**
 ### 模拟数据说明
 
 当前版本使用前端内置的 fallback 数据（`fallbackHomeData()`、`fallbackRecommend()` 等方法）。在 API 层面已预留接口请求逻辑，目标后端地址为 `https://api.smartrent.com/api/v1`，实际部署时替换为真实后端即可。
