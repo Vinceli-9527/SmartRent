@@ -127,7 +127,7 @@ Pages (页面层)
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/<your-username>/SmartRent.git
+   git clone https://github.com/Vinceli-9527/SmartRent.git
    ```
 
 2. 用 DevEco Studio 打开项目目录
@@ -151,4 +151,6 @@ Pages (页面层)
 
 ## 许可证
 
-本项目仅供学习与期末设计用途。
+[MIT License](LICENSE)
+
+Copyright (c) 2026
